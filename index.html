@@ -56,10 +56,20 @@
   function escapeHtml(value) { return String(value ?? '').replace(/[&<>"']/g, ch => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[ch])); }
   function adsFor(company) { return data.ads.filter(ad => ad.company === company && !ad.placeholder).slice(0, 10); }
   function companyMeta(name) { return data.companies.find(company => company.name === name) || { name, rank: '', reviews: '', rating: '' }; }
+  function sortCompaniesForDropdown(companies) {
+    return [...companies].sort((a, b) => {
+      const aCount = adsFor(a.name).length;
+      const bCount = adsFor(b.name).length;
+      if (aCount === 0 && bCount === 0) return a.name.localeCompare(b.name);
+      if (aCount === 0) return 1;
+      if (bCount === 0) return -1;
+      return Number(a.rank || 9999) - Number(b.rank || 9999);
+    });
+  }
   function populateOptions(filter = '') {
     const query = filter.trim().toLowerCase();
     const previous = select.value;
-    const matching = data.companies.filter(company => company.name.toLowerCase().includes(query));
+    const matching = sortCompaniesForDropdown(data.companies.filter(company => company.name.toLowerCase().includes(query)));
     select.innerHTML = matching.map(company => {
       const count = adsFor(company.name).length;
       const label = '#' + company.rank + ' - ' + company.name + ' (' + count + ' ads)';
