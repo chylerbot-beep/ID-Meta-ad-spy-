@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1200" viewBox="0 0 900 1200">
+  <rect width="900" height="1200" fill="#f5f7fb"/>
+  <rect x="36" y="36" width="828" height="1128" rx="18" fill="#ffffff" stroke="#cfd8e3"/>
+  <style>
+    .label{font-family:Arial,Helvetica,sans-serif;font-size:24px;font-weight:700;fill:#334155}
+    .title{font-family:Arial,Helvetica,sans-serif;font-size:34px;font-weight:700;fill:#111827}
+    .meta{font-family:Arial,Helvetica,sans-serif;font-size:22px;fill:#475569}
+    .body{font-family:Arial,Helvetica,sans-serif;font-size:22px;fill:#111827}
+    .note{font-family:Arial,Helvetica,sans-serif;font-size:20px;fill:#9a3412}
+  </style>
+  <text x="56" y="92" class="label">Facebook Ads Library Capture</text>
+  <text x="56" y="142" class="title">In-Expat</text>
+  <text x="56" y="188" class="meta">Advertiser: Expat Women - Connect &amp; Grow</text>
+  <text x="56" y="224" class="meta">Library ID: 942404395455783</text>
+  <text x="56" y="260" class="meta">Started: 26 Apr 2026</text>
+  <text x="56" y="1080" class="note">Ads Library page loaded, but browser screenshot capture timed out for this page. Open the ad link to inspect the live creative.</text>
+  <text x="56" y="1120" class="meta">https://www.facebook.com/ads/library/?id=942404395455783</text>
+  <text x="56" y="300" class="body">You didn't move abroad to disappear. But between the</text>
+<text x="56" y="330" class="body">logistics, the loneliness, and the endless adapting, a lot of</text>
+<text x="56" y="360" class="body">women do. The Lead From Within Guide is free. It's for expat</text>
+<text x="56" y="390" class="body">women who are ready to find their footing again. Download your</text>
+<text x="56" y="420" class="body">guide below.</text>
+</svg>

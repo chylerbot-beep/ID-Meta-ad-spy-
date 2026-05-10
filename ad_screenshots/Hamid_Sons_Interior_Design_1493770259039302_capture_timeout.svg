@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1200" viewBox="0 0 900 1200">
+  <rect width="900" height="1200" fill="#f5f7fb"/>
+  <rect x="36" y="36" width="828" height="1128" rx="18" fill="#ffffff" stroke="#cfd8e3"/>
+  <style>
+    .label{font-family:Arial,Helvetica,sans-serif;font-size:24px;font-weight:700;fill:#334155}
+    .title{font-family:Arial,Helvetica,sans-serif;font-size:34px;font-weight:700;fill:#111827}
+    .meta{font-family:Arial,Helvetica,sans-serif;font-size:22px;fill:#475569}
+    .body{font-family:Arial,Helvetica,sans-serif;font-size:22px;fill:#111827}
+    .note{font-family:Arial,Helvetica,sans-serif;font-size:20px;fill:#9a3412}
+  </style>
+  <text x="56" y="92" class="label">Facebook Ads Library Capture</text>
+  <text x="56" y="142" class="title">Hamid &amp; Sons Interior Design</text>
+  <text x="56" y="188" class="meta">Advertiser: Hamid &amp; Sons Interior Design</text>
+  <text x="56" y="224" class="meta">Library ID: 1493770259039302</text>
+  <text x="56" y="260" class="meta">Started: 28 Apr 2026</text>
+  <text x="56" y="1080" class="note">Ads Library page loaded, but browser screenshot capture timed out for this page. Open the ad link to inspect the live creative.</text>
+  <text x="56" y="1120" class="meta">https://www.facebook.com/ads/library/?id=1493770259039302</text>
+  <text x="56" y="300" class="body">Inspired by Moroccan elements, this home reflects not just a</text>
+<text x="56" y="330" class="body">style but a collaborative journey. Through constant updates,</text>
+<text x="56" y="360" class="body">detailed planning and dedicated workmanship, we delivered</text>
+<text x="56" y="390" class="body">their dream kitchen 💌 👤 Designer: Kartini (Joo Chiat Branch)</text>
+<text x="56" y="420" class="body">🏠 Carpenter: Mohsin 𝐁𝐨𝐨𝐤 𝐲𝐨𝐮𝐫</text>
+<text x="56" y="450" class="body">𝐍𝐨-𝐨𝐛𝐥𝐢𝐠𝐚𝐭𝐢𝐨𝐧 𝐜𝐨𝐧𝐬𝐮𝐥𝐭𝐚𝐭𝐢𝐨𝐧 𝐭𝐨𝐝𝐚𝐲!</text>
+<text x="56" y="480" class="body">📩 Self appointment: 📞 Call us at +65 8784 8633 ⭐ #hamidnsons</text>
+<text x="56" y="510" class="body">#interiordesign #homeinterior #rumahcantik</text>
+</svg>

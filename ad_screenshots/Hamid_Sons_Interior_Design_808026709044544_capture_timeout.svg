@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1200" viewBox="0 0 900 1200">
+  <rect width="900" height="1200" fill="#f5f7fb"/>
+  <rect x="36" y="36" width="828" height="1128" rx="18" fill="#ffffff" stroke="#cfd8e3"/>
+  <style>
+    .label{font-family:Arial,Helvetica,sans-serif;font-size:24px;font-weight:700;fill:#334155}
+    .title{font-family:Arial,Helvetica,sans-serif;font-size:34px;font-weight:700;fill:#111827}
+    .meta{font-family:Arial,Helvetica,sans-serif;font-size:22px;fill:#475569}
+    .body{font-family:Arial,Helvetica,sans-serif;font-size:22px;fill:#111827}
+    .note{font-family:Arial,Helvetica,sans-serif;font-size:20px;fill:#9a3412}
+  </style>
+  <text x="56" y="92" class="label">Facebook Ads Library Capture</text>
+  <text x="56" y="142" class="title">Hamid &amp; Sons Interior Design</text>
+  <text x="56" y="188" class="meta">Advertiser: Hamid &amp; Sons Interior Design</text>
+  <text x="56" y="224" class="meta">Library ID: 808026709044544</text>
+  <text x="56" y="260" class="meta">Started: 20 Apr 2026</text>
+  <text x="56" y="1080" class="note">Ads Library page loaded, but browser screenshot capture timed out for this page. Open the ad link to inspect the live creative.</text>
+  <text x="56" y="1120" class="meta">https://www.facebook.com/ads/library/?id=808026709044544</text>
+  <text x="56" y="300" class="body">Let's talk colors 🧐 Burnt orange kitchen cabinets add a pop</text>
+<text x="56" y="330" class="body">of earthy color, creating instant warmth and character paired</text>
+<text x="56" y="360" class="body">with intricately patterned backsplash tiles Subtle contrasts,</text>
+<text x="56" y="390" class="body">warm lighting, and reflective metallic finishes — ties</text>
+<text x="56" y="420" class="body">everything together, making the space both functional and full</text>
+<text x="56" y="450" class="body">of personality Love what you see? DM us today to start your</text>
+<text x="56" y="480" class="body">journey!</text>
+</svg>

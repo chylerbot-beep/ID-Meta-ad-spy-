@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1200" viewBox="0 0 900 1200">
+  <rect width="900" height="1200" fill="#f5f7fb"/>
+  <rect x="36" y="36" width="828" height="1128" rx="18" fill="#ffffff" stroke="#cfd8e3"/>
+  <style>
+    .label{font-family:Arial,Helvetica,sans-serif;font-size:24px;font-weight:700;fill:#334155}
+    .title{font-family:Arial,Helvetica,sans-serif;font-size:34px;font-weight:700;fill:#111827}
+    .meta{font-family:Arial,Helvetica,sans-serif;font-size:22px;fill:#475569}
+    .body{font-family:Arial,Helvetica,sans-serif;font-size:22px;fill:#111827}
+    .note{font-family:Arial,Helvetica,sans-serif;font-size:20px;fill:#9a3412}
+  </style>
+  <text x="56" y="92" class="label">Facebook Ads Library Capture</text>
+  <text x="56" y="142" class="title">U-Home Interior Design Pte Ltd</text>
+  <text x="56" y="188" class="meta">Advertiser: Dompet Dhuafa</text>
+  <text x="56" y="224" class="meta">Library ID: 1165510370866950</text>
+  <text x="56" y="260" class="meta">Started: 29 Apr 2022</text>
+  <text x="56" y="1080" class="note">Ads Library page loaded, but browser screenshot capture timed out for this page. Open the ad link to inspect the live creative.</text>
+  <text x="56" y="1120" class="meta">https://www.facebook.com/ads/library/?id=1165510370866950</text>
+  <text x="56" y="300" class="body">5 Perbedaan Zakat Mal dan Zakat Fitrah yang Wajib Diketahui</text>
+<text x="56" y="330" class="body">Ada dua kategori zakat, yaitu mal dan fitrah. Keduanya</text>
+<text x="56" y="360" class="body">sama-sama wajib dilakukan oleh umat Islam dalam menjalani</text>
+<text x="56" y="390" class="body">rukun islam keempat. Meskipun begitu, terdapat beberapa</text>
+<text x="56" y="420" class="body">perbedaan yang harus diperhatikan supaya niat dan hitungannya</text>
+<text x="56" y="450" class="body">benar. Apa saja, ya? Yuk temukan jawaban selengkapnya di</text>
+<text x="56" y="480" class="body">tautan:</text>
+</svg>

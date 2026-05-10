@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1200" viewBox="0 0 900 1200">
+  <rect width="900" height="1200" fill="#f5f7fb"/>
+  <rect x="36" y="36" width="828" height="1128" rx="18" fill="#ffffff" stroke="#cfd8e3"/>
+  <style>
+    .label{font-family:Arial,Helvetica,sans-serif;font-size:24px;font-weight:700;fill:#334155}
+    .title{font-family:Arial,Helvetica,sans-serif;font-size:34px;font-weight:700;fill:#111827}
+    .meta{font-family:Arial,Helvetica,sans-serif;font-size:22px;fill:#475569}
+    .body{font-family:Arial,Helvetica,sans-serif;font-size:22px;fill:#111827}
+    .note{font-family:Arial,Helvetica,sans-serif;font-size:20px;fill:#9a3412}
+  </style>
+  <text x="56" y="92" class="label">Facebook Ads Library Capture</text>
+  <text x="56" y="142" class="title">In-Expat</text>
+  <text x="56" y="188" class="meta">Advertiser: Ligonier Ministries</text>
+  <text x="56" y="224" class="meta">Library ID: 1281572256821970</text>
+  <text x="56" y="260" class="meta">Started: 1 Jul 2025</text>
+  <text x="56" y="1080" class="note">Ads Library page loaded, but browser screenshot capture timed out for this page. Open the ad link to inspect the live creative.</text>
+  <text x="56" y="1120" class="meta">https://www.facebook.com/ads/library/?id=1281572256821970</text>
+  <text x="56" y="300" class="body">Christian maturity is pictured for us in the Lord Jesus. It is</text>
+<text x="56" y="330" class="body">by being conformed to Him that we become mature and fruitful.</text>
+<text x="56" y="360" class="body">—Donald MacLean Read the full article now on Ligonier.org.</text>
+</svg>
